@@ -1,0 +1,11 @@
+.stepsNav {
+    border-bottom: 1px solid black;
+    display: flex;
+    justify-content: space-between;
+    height: 30px;
+}
+.stepsBtns {
+    flex-grow: 1;
+    display: flex;
+    justify-content: flex-start;
+}

@@ -1,0 +1,22 @@
+.alert {
+    position: fixed;
+    top: 0px;
+    right: 0;
+    min-height: 20px;
+    border: black;
+    background: rgba(255, 104, 4, .8);
+    width: 100%;
+}
+
+.alert h1 {
+    color: black;
+    font-size: 12px;
+}
+
+.alert button {
+    position: absolute;
+    top: 3px;
+    right: 3px;
+    background: none;
+    border: none;
+}
